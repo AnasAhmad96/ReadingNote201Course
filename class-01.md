@@ -1,18 +1,19 @@
+
 # 201 Course 
 
 
 ![web developer](http://coderoo.com.au/blog/wp-content/uploads/2018/02/web.jpg)
 
 ----
-| number | subject |
-|: ----- :|: ----- :|
-|1|Introduction HTML (pp.2-11)|
-|2|HTML Chapter 1: “Structure” (pp.12-39)|
-|3|HTML Chapter 8: “Extra Markup” (p.176-199)|
-|4|HTML Chapter 17: “HTML5 Layout” (pp.428-451)|
-|5|HTML Chapter 18: “Process & Design” (pp.452-475)|
-|6|ntroduction to JavaScript|
-|7|JS Chapter 1: “The ABC of Programming” (pp.11-52)|
+| number      | subject |
+| ----------- | ----------- |
+| 1      | Introduction HTML (pp.2-11)       |
+| 2   | HTML Chapter 8: “Extra Markup” (p.176-199)        |
+| 3   | HTML Chapter 17: “HTML5 Layout” (pp.428-451)        |
+| 4   | HTML Chapter 18: “Process & Design” (pp.452-475)        |
+| 5   | ntroduction to JavaScript|        |
+| 6   | JS Chapter 1: “The ABC of Programming” (pp.11-52)        |
+| 7   | HTML Chapter 1: “Structure” (pp.12-39)        |
 
 ----
 ### Introduction HTML (pp.2-11) 
@@ -54,7 +55,7 @@ computer that is constantly
 connected to the web, and is set
 up especially to send web pages
 to users.
-*The web server then sends the
+* The web server then sends the
 page you requested back to your
 web browser.
 ----
@@ -1046,13 +1047,21 @@ because the script works with the model of the web
 page that the browser has created.
 * Computers approach tasks in a different way than
 humans, so your instructions must let the computer
-solve the task prggrammatically.
+solve the task programmatically.
 To approach writing a script, break down your goal into
 a series of tasks and then work out each step needed
 to complete that task (a flowchart can help).A script is a series of instructions that the computer
 can follow in order to achieve a goal.
 * Each time the script runs, it might only use a subset of
 all the instructions.
+
+```mermaid
+graph LR
+A[Software Engeneering] -- Contain --> B((Full Stack))
+A --> C(Programmer)
+B --> D{Web Developer}
+C --> D
+```
 ----
 - [x] useful
 - [ ] not useful
