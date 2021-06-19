@@ -17,7 +17,7 @@ Number  | Link
 |9| [read7](https://anasahmad96.github.io/Reading-notes/read7)|
 |10| [README](https://anasahmad96.github.io/Reading-notes/)|
 
-*Reading Notes For (101&102 Course)*
+*Reading Notes For (201 Course)*
 
 |Number|Subject|
 |-----|------|
