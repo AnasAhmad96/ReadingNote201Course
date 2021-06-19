@@ -22,6 +22,6 @@ Number  | Link
 |Number|Subject|
 |-----|------|
 |1|[calss-01](https://anasahmad96.github.io/ReadingNote201Course/class-01)
-||[README](https://anasahmad96.github.io/ReadingNote201Course/)
+|2|[README](https://anasahmad96.github.io/ReadingNote201Course/)
 
 @AnasAhmad
