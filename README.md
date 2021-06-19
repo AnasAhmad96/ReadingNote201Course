@@ -22,7 +22,7 @@ Number  | Link
 |Number|Subject|
 |-----|------|
 |1|[About me](https://anasahmad96.github.io/Introduction/)
-|2|[calss-01](https://anasahmad96.github.io/ReadingNote201Course/class-01)
+|2|[Class-01](https://anasahmad96.github.io/ReadingNote201Course/class-01)
 |3|[README](https://anasahmad96.github.io/ReadingNote201Course/)
 
 
