@@ -4,7 +4,7 @@
 *Reading Notes For (101&102 Course)*
 
 Number  | Link
-------------- | -------------
+----- | -----
 |1| [GrowthMindest](https://anasahmad96.github.io/Reading-notes/GrowthMindest) 
 |2| [lab01a](https://anasahmad96.github.io/Reading-notes/lab01a) 
 |3| [lab01b](https://anasahmad96.github.io/Reading-notes/lab01b) 
