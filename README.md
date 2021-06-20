@@ -25,7 +25,7 @@ Number  | Link
 |-----|------|
 |1|[About me](https://anasahmad96.github.io/Introduction/)
 |2|[Class-01](https://anasahmad96.github.io/ReadingNote201Course/class-01)
-|3|[Class-01](https://anasahmad96.github.io/ReadingNote201Course/class-02)
+|3|[Class-02](https://anasahmad96.github.io/ReadingNote201Course/class-02)
 |4|[README](https://anasahmad96.github.io/ReadingNote201Course/)
 
 ------------
