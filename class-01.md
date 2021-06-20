@@ -1,25 +1,21 @@
-
 # 201 Course 
-
-
 ![web developer](http://coderoo.com.au/blog/wp-content/uploads/2018/02/web.jpg)
 
 ----
 | number      | subject |
 | ----------- | ----------- |
-| 1      | Introduction HTML (pp.2-11)       |
-| 2   | HTML Chapter 8: “Extra Markup” (p.176-199)        |
-| 3   | HTML Chapter 17: “HTML5 Layout” (pp.428-451)        |
-| 4   | HTML Chapter 18: “Process & Design” (pp.452-475)        |
-| 5   | ntroduction to JavaScript|        |
-| 6   | JS Chapter 1: “The ABC of Programming” (pp.11-52)        |
-| 7   | HTML Chapter 1: “Structure” (pp.12-39)        |
+|1| Introduction HTML (pp.2-11)  
+|2| HTML Chapter 8: “Extra Markup” (p.176-199)        
+|3| HTML Chapter 17: “HTML5 Layout” (pp.428-451)        
+|4| HTML Chapter 18: “Process & Design” (pp.452-475)        
+|5| ntroduction to JavaScript|        
+|6| JS Chapter 1: “The ABC of Programming” (pp.11-52)        
 
 ----
 ### Introduction HTML (pp.2-11) 
 1. how the web works ? 
 
->When you visit a website, the web server
+> When you visit a website, the web server
 hosting that site could be anywhere in the
 world. In order for you to find the location of
 the web server, your browser will first connect
@@ -62,6 +58,7 @@ web browser.
 
 ### HTML Chapter 1: “Structure” (pp.12-39)
 1. Tags and elements
+
 ```html
 <html>
 <body>
@@ -79,6 +76,7 @@ headings).</p>
 </body>
 </html>
 ```
+
 > **<html> tag:** *The opening <html> tag indicates that anything between it and a closing </html> tag is HTML code*
 
 > **<body> tag:** *The <body> tag indicates that anything between it and the closing
@@ -130,6 +128,7 @@ can go.
 1. Comments in HTML:
 
 ```html <!-- -->```
+  
 ```html
 
 <!-- start of introduction -->
@@ -148,6 +147,7 @@ enhance the viewer's experience.</p>
 <a href="mailto:info@example.org">Contact</a>
 --> 
 ```
+  
 >If you want to add a comment
 to your code that will not be
 visible in the user's browser, you
