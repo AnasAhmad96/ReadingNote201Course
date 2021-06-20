@@ -1,21 +1,26 @@
+
+
 # 201 Course 
+
+
 ![web developer](http://coderoo.com.au/blog/wp-content/uploads/2018/02/web.jpg)
 
 ----
 | number      | subject |
 | ----------- | ----------- |
-|1| Introduction HTML (pp.2-11)  
-|2| HTML Chapter 8: “Extra Markup” (p.176-199)        
-|3| HTML Chapter 17: “HTML5 Layout” (pp.428-451)        
-|4| HTML Chapter 18: “Process & Design” (pp.452-475)        
-|5| ntroduction to JavaScript|        
-|6| JS Chapter 1: “The ABC of Programming” (pp.11-52)        
+| 1      | Introduction HTML (pp.2-11)       |
+| 2   | HTML Chapter 8: “Extra Markup” (p.176-199)        |
+| 3   | HTML Chapter 17: “HTML5 Layout” (pp.428-451)        |
+| 4   | HTML Chapter 18: “Process & Design” (pp.452-475)        |
+| 5   | ntroduction to JavaScript|        |
+| 6   | JS Chapter 1: “The ABC of Programming” (pp.11-52)        |
+| 7   | HTML Chapter 1: “Structure” (pp.12-39)        |
 
 ----
 ### Introduction HTML (pp.2-11) 
 1. how the web works ? 
 
-> When you visit a website, the web server
+>When you visit a website, the web server
 hosting that site could be anywhere in the
 world. In order for you to find the location of
 the web server, your browser will first connect
@@ -58,7 +63,6 @@ web browser.
 
 ### HTML Chapter 1: “Structure” (pp.12-39)
 1. Tags and elements
-
 ```html
 <html>
 <body>
@@ -76,15 +80,14 @@ headings).</p>
 </body>
 </html>
 ```
+> **< html> tag:** *The opening <html> tag indicates that anything between it and a closing </html> tag is HTML code*
 
-> **<html> tag:** *The opening <html> tag indicates that anything between it and a closing </html> tag is HTML code*
+> **< body> tag:** *The <body> tag indicates that anything between it and the closing
+>> </body> tag should be shown inside the main browser window.
 
-> **<body> tag:** *The <body> tag indicates that anything between it and the closing
->> </body> tag should be shown inside the main browser window.*
+> **< h1> tag:** Words between < h1> and < /h1> are a main heading. 
 
-> **<h1> tag:** *Words between <h1> and </h1> are a main heading. *
-
-> **<p> tag:** A paragraph of text appears between these <p> and </p> tags.
+> **< p> tag:** A paragraph of text appears between these < p> and < /p> tags.
 
 ``` html
 <p lang="en-us">Paragraph in English</p>
@@ -128,7 +131,6 @@ can go.
 1. Comments in HTML:
 
 ```html <!-- -->```
-  
 ```html
 
 <!-- start of introduction -->
@@ -147,7 +149,6 @@ enhance the viewer's experience.</p>
 <a href="mailto:info@example.org">Contact</a>
 --> 
 ```
-  
 >If you want to add a comment
 to your code that will not be
 visible in the user's browser, you
@@ -356,7 +357,7 @@ appear to start on a new line in
 the browser window. These are
 known as block level elements.
 Examples of block elements are
->> <h1>, <p>, <ul>, and <li>.
+>> < h1>, < p>, < ul>, and < li>.
 
 5- Inline Elements:
 ``` html
@@ -364,7 +365,7 @@ Timed to a single revolution of the planet around
 the sun at a 23.4 degrees tilt that plays out the
 rhythm of the seasons, this <em>Origins of Art</em>
 cycle is organized around four themes: <b>science,
-architecture, history</b> and <b>religion</b>.
+architecture, history< /b> and <b>religion< /b>.
 ```
 > Some elements will always
 appear to continue on the
@@ -373,7 +374,7 @@ elements. These are known as
 inline elements.
 Examples of inline elements are
 
->> <a>, <b>, <em>, and <img>.
+>> < a>, < b>, < em>, and < img>.
 
 6-Grouping Te xt &
 Elements In a Block
@@ -428,8 +429,11 @@ which opening tag it is supposed
 to correspond to, as shown at
 the end of the example here.
 
-7-Grouping Te xt &
+-----
+
+7-Grouping Text &
 Elements Inline
+
 ```html
 <p>Anish Kapoor won the Turner Prize in 1991 and
 exhibited at the <span class="gallery">Tate
@@ -452,14 +456,15 @@ these elements using CSS.
 You will usually see that a class
 or id attribute is used with
 <span> elements:
-●● To explain the purpose of this
+To explain the purpose of this
 <span> element
-●● So that CSS styles can be
+So that CSS styles can be
 applied to elements that
 have specific values for these
 attributes
 
 8- IF rames
+
 ```html
 <iframe
 width="450"
@@ -483,7 +488,7 @@ html page (either located on the
 same server or anywhere else on
 the web).
 An iframe is created using the
->><iframe> element. There are a
+>>< iframe> element. There are a
 few attributes that you will need
 to know to use it:
 
@@ -522,7 +527,7 @@ content="Fri, 04 Apr 2014 23:59:59 GMT" />
 </body>
 </html>
 ```
-> The <meta> element also
+> The < meta> element also
 uses the http-equiv and
 content attributes in pairs.
 In our example, you can see
