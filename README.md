@@ -27,11 +27,10 @@ Number  | Link
 |2| [read01-class01](https://github.com/AnasAhmad96/ReadingNote201Course/blob/main/class-01.md)
 |3| [lab01a](https://anasahmad96.github.io/ReadingNote201Course/) 
 |4| [lab01b](https://gist.github.com/AnasAhmad96/cccd63b44b8afb4062e59baee172b4cd) 
-|5| [lab01b](https://gist.github.com/AnasAhmad96/cccd63b44b8afb4062e59baee172b4cd) 
-|6| [read02-class02](https://github.com/AnasAhmad96/ReadingNote201Course/blob/main/class-02.md)
-|7| [lab02](https://anasahmad96.github.io/About-Me-guessing-game/html/) 
-|8| [Learning Journal](https://canvas.instructure.com/courses/2960648/assignments/22737734/submissions/30361140)
-|9|[README](https://anasahmad96.github.io/ReadingNote201Course/)
+|5| [read02-class02](https://github.com/AnasAhmad96/ReadingNote201Course/blob/main/class-02.md)
+|6| [lab02](https://anasahmad96.github.io/About-Me-guessing-game/html/) 
+|7| [Learning Journal](https://canvas.instructure.com/courses/2960648/assignments/22737734/submissions/30361140)
+|8|[README](https://anasahmad96.github.io/ReadingNote201Course/)
 
 ------------
 @AnasAhmad
