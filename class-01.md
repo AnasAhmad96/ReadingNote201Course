@@ -1,7 +1,5 @@
 
-
 # 201 Course 
-
 
 ![web developer](http://coderoo.com.au/blog/wp-content/uploads/2018/02/web.jpg)
 
@@ -17,7 +15,9 @@
 | 7   | HTML Chapter 1: “Structure” (pp.12-39)        |
 
 ----
+
 ### Introduction HTML (pp.2-11) 
+
 1. how the web works ? 
 
 >When you visit a website, the web server
@@ -25,6 +25,7 @@ hosting that site could be anywhere in the
 world. In order for you to find the location of
 the web server, your browser will first connect
 to a Domain Name System (DNS) server.
+
 * When you connect to the web,
 you do so via an Internet Service
 Provider (ISP). You type a
@@ -59,10 +60,13 @@ to users.
 * The web server then sends the
 page you requested back to your
 web browser.
+
 ----
 
 ### HTML Chapter 1: “Structure” (pp.12-39)
+
 1. Tags and elements
+
 ```html
 <html>
 <body>
@@ -80,6 +84,7 @@ headings).</p>
 </body>
 </html>
 ```
+
 > **< html> tag:** *The opening <html> tag indicates that anything between it and a closing </html> tag is HTML code*
 
 > **< body> tag:** *The <body> tag indicates that anything between it and the closing
@@ -92,6 +97,7 @@ headings).</p>
 ``` html
 <p lang="en-us">Paragraph in English</p>
 ```
+
 > The attribute name indicates
 what kind of extra information
 you are supplying about the
@@ -126,13 +132,16 @@ about the content of that element.
 * To learn HTML you need to know what tags are
 available for you to use, what they do, and where they
 can go.
+
 ----
+
 ### HTML Chapter 8: “Extra Markup” (p.176-199)
+
 1. Comments in HTML:
 
 ```html <!-- -->```
-```html
 
+```html
 <!-- start of introduction -->
 <h1>Current Exhibitions</h1>
 <h2>Olafur Eliasson</h2>
@@ -149,7 +158,8 @@ enhance the viewer's experience.</p>
 <a href="mailto:info@example.org">Contact</a>
 --> 
 ```
->If you want to add a comment
+
+> If you want to add a comment
 to your code that will not be
 visible in the user's browser, you
 can add the text between these
@@ -183,6 +193,8 @@ the left, the email link has been
 commented out.
 
 2. ID Attribute: 
+
+
 ```html
 <p>Water and air. So very commonplace are these
 substances, they hardly attract attention - and
@@ -194,7 +206,8 @@ ancestral home; I embark on a voyage of seeing.
 <p>Mystery of mysteries, water and air are right
 there before us in the sea.</p>
 ```
->Every HTML element can carry
+
+> Every HTML element can carry
 the id attribute. It is used to
 uniquely identify that element
 from other elements on the
@@ -264,6 +277,7 @@ value. So, in this example, the
 value of important could be
 used on headings and links, too.
 Result
+
 >> <p class="important">For a one-year period from
 November 2010, the Marugame Genichiro-Inokuma
 Museum of Contemporary Art (MIMOCA) will host a
@@ -273,12 +287,13 @@ thematically contextualized under the headings
 "Science," "Architecture," "History" and
 "Religion" so as to present a comprehensive
 panorama of the artist's oeuvre.</p>
-<p class="important admittance">Hours: 10:00 – 18:00
+< p class="important admittance">Hours: 10:00 – 18:00
 (No admittance after 17:30)</p>
 HTML chapter-08/class-attribute.html
 Class
 
 3- Class Attribute:
+
 ```html 
 <p class="important">For a one-year period from
 November 2010, the Marugame Genichiro-Inokuma
@@ -292,7 +307,8 @@ panorama of the artist's oeuvre.</p>
 <p class="important admittance">Hours: 10:00 – 18:00
 (No admittance after 17:30)</p>
 ```
->Every HTML element can
+
+> Every HTML element can
 also carry a class attribute.
 Sometimes, rather than uniquely
 identifying one element within
@@ -341,6 +357,7 @@ see in the third paragraph in the
 example above
 
 4- Block Elements:
+
 ```html 
 <h1>Hiroshi Sugimoto</h1>
 <p>The dates for the ORIGIN OF ART exhibition are as
@@ -352,6 +369,7 @@ follows:</p>
 <li>Religion: 28 Aug - 6 Nov 2011</li>
 </ul>
 ```
+
 > Some elements will always
 appear to start on a new line in
 the browser window. These are
@@ -360,6 +378,7 @@ Examples of block elements are
 >> < h1>, < p>, < ul>, and < li>.
 
 5- Inline Elements:
+
 ``` html
 Timed to a single revolution of the planet around
 the sun at a 23.4 degrees tilt that plays out the
@@ -367,6 +386,7 @@ rhythm of the seasons, this <em>Origins of Art</em>
 cycle is organized around four themes: <b>science,
 architecture, history< /b> and <b>religion< /b>.
 ```
+
 > Some elements will always
 appear to continue on the
 same line as their neighbouring
@@ -378,6 +398,7 @@ Examples of inline elements are
 
 6-Grouping Te xt &
 Elements In a Block
+
 ```html 
 <div id="header">
 <img src="images/logo.gif" alt="Anish Kapoor" />
@@ -389,24 +410,25 @@ Elements In a Block
 </ul>
 </div><!-- end of header -->
 ```
->><div> block-elements.html HTML
-The <div> element allows you to
+
+>> < div> block-elements.html HTML
+The < div> element allows you to
 group a set of elements together
 in one block-level box.
 For example, you might create
-a <div> element to contain all
+a < div> element to contain all
 of the elements for the header
 of your site (the logo and the
 navigation), or you might create
-a <div> element to contain
+a < div> element to contain
 comments from visitors.
 In a browser, the contents of
-the <div> element will start on
+the < div> element will start on
 a new line, but other than this
 it will make no difference to the
 presentation of the page.
 Using an id or class attribute
-on the <div> element, however,
+on the < div> element, however,
 means that you can create
 CSS style rules to indicate how
 much space the <div> element
@@ -423,7 +445,8 @@ Since there may be several
 other elements inside a <div>
 element, it can be helpful to add
 a comment after the closing
-</div> tag.
+< /div> tag.
+  
 This allows you to clearly see
 which opening tag it is supposed
 to correspond to, as shown at
@@ -439,13 +462,16 @@ Elements Inline
 exhibited at the <span class="gallery">Tate
 Modern</span> gallery in London in 2003.</p>
 ```
+  
 > The <span> element acts like
 an inline equivalent of the <div>
 element. It is used to either:
+  
 1. Contain a section of text
 where there is no other suitable
 element to differentiate it from
 its surrounding text
+  
 2. Contain a number of inline
 elements
 The most common reason why
@@ -455,7 +481,7 @@ appearance of the content of
 these elements using CSS.
 You will usually see that a class
 or id attribute is used with
-<span> elements:
+< span> elements:
 To explain the purpose of this
 <span> element
 So that CSS styles can be
@@ -473,7 +499,8 @@ src="http://maps.google.co.uk/maps?q=moma+new+york
 &amp;output=embed">
 </iframe>
 ```
->An iframe is like a little window
+  
+> An iframe is like a little window
 that has been cut into your
 page — and in that window you
 can see another page. The term
@@ -488,7 +515,7 @@ html page (either located on the
 same server or anywhere else on
 the web).
 An iframe is created using the
->>< iframe> element. There are a
+>> < iframe> element. There are a
 few attributes that you will need
 to know to use it:
 
@@ -505,6 +532,7 @@ the width of the iframe in pixels
 
 9- Information About
 Your pages
+  
 ```html 
 <!DOCTYPE html>
 <html>
@@ -527,6 +555,7 @@ content="Fri, 04 Apr 2014 23:59:59 GMT" />
 </body>
 </html>
 ```
+  
 > The < meta> element also
 uses the http-equiv and
 content attributes in pairs.
@@ -553,10 +582,12 @@ cached). Note that the date must
 be specified in the format shown.
 
 10-Summary Extra Markup
->* DOCTYPES tell browsers which version of HTML you
+  
+> * DOCTYPES tell browsers which version of HTML you
 are using.
 * You can add comments to your code between the
-<!-- and --> markers.
+< !-- and -- > markers.
+  
 * The id and class attributes allow you to identify
 particular elements.
 * The <div> and <span> elements allow you to group
@@ -569,23 +600,24 @@ information about your web page.
 characters in your pages such as <, >, and ©.
 
 ---
+  
 ### HTML Chapter 17: “HTML5 Layout” (pp.428-451)
 
 * How old browsers understand new elements
->HTML5 introduces a new set of elements that allow you to divide up the
+> HTML5 introduces a new set of elements that allow you to divide up the
 parts of a page. The names of these elements indicate the kind of content
 you will find in them. They are still subject to change, but that has not
 stopped many web page authors using them already.
 >> **Headers & Footers:**
 The <header> and <footer>
 elements can be used for:
-●● The main header or footer
+* The main header or footer
 that appears at the top or
 bottom of every page on the
 site.
-●● A header or footer for an
+* A header or footer for an
 individual <article> or
-<section> within the page.
+< section > within the page.
 In this example, the <header>
 element used to contain the site
 name and the main navigation.
@@ -614,6 +646,7 @@ code shown in this chapter
 is referenced in one HTML
 document which is called:
 html5-layout.html
+  
 ```html
 <header>
 <h1>Yoko's Kitchen</h1>
@@ -665,6 +698,7 @@ adopted is still yet to be seen.
 </ul>
 </nav>
 ```
+ 
 >> Articles
 The <article> element acts as
 a container for any section of a
@@ -739,7 +773,8 @@ it might contain links to other
 sections of the site, a list of
 recent posts, a search box, or
 recent tweets by the author.
-```html
+
+```html 
 <aside>
 <section class="popular-recipes">
 <h2>Popular Recipes</h2>
@@ -757,6 +792,7 @@ London E2 7DP</p>
 </section>
 </aside>
 ```
+  
 >> Sections
 The <section> element groups
 related content together, and
@@ -803,6 +839,8 @@ Shoreditch<br />
 London E2 7DP</p>
 </section>
 ```
+  
+  
 >> Heading Groups:
 The purpose of the <hgroup>
 element is to group together a
@@ -844,6 +882,7 @@ be integral parts of a heading).
 <h3>Five week course in London</h3>
 </hgroup>
 ```
+  
 >> Figures
 You already met the <figure>
 element in Chapter 5 when we
@@ -874,42 +913,43 @@ body of an article
 ```html
 <p>A five week introduction to traditional Japanese vegetarian meals,
 teaching you a selection of rice and noodle dishes.</p>
-</article>
-<article>
-<figure>
-<img src="images/teriyaki.jpg" alt="Teriyaki sauce" />
-<figcaption>Teriyaki Sauce</figcaption>
-</figure>
-<hgroup>
-<h2>Sauces Masterclass</h2>
-<h3>One day workshop</h3>
-</hgroup>
-<p>An intensive one-day course looking at how to create the most delicious
+< /article>
+< article>
+< figure>
+< img src="images/teriyaki.jpg" alt="Teriyaki sauce" />
+< figcaption>Teriyaki Sauce</figcaption>
+< /figure>
+< hgroup>
+< h2>Sauces Masterclass</h2>
+< h3>One day workshop</h3>
+< /hgroup>
+< p>An intensive one-day course looking at how to create the most delicious
 sauces for use in a range of Japanese cookery.</p>
-</article>
+< /article>
+< /section>
+< aside>
+< section class="popular-recipes">
+< h2>Popular Recipes</h2>
+< a href="">Yakitori (grilled chicken)</a>
+< a href="">Tsukune (minced chicken patties)</a>
+< a href="">Okonomiyaki (savory pancakes)</a>
+< a href="">Mizutaki (chicken stew)</a>
 </section>
-<aside>
-<section class="popular-recipes">
-<h2>Popular Recipes</h2>
-<a href="">Yakitori (grilled chicken)</a>
-<a href="">Tsukune (minced chicken patties)</a>
-<a href="">Okonomiyaki (savory pancakes)</a>
-<a href="">Mizutaki (chicken stew)</a>
-</section>
-<section class="contact-details">
-<h2>Contact</h2>
-<p>Yoko's Kitchen<br />
+< section class="contact-details">
+< h2>Contact</h2>
+< p>Yoko's Kitchen<br />
 27 Redchurch Street<br />
 Shoreditch<br />
 London E2 7DP</p>
-</section>
-</aside>
-<footer>
+< /section>
+< /aside>
+< footer>
+  
 &copy; 2011 Yoko's Kitchen
-</footer>
-</div><!-- .wrapper -->
-</body>
-</html>
+< /footer>
+< /div><!-- .wrapper -->
+< /body>
+< /html>
 ```
 
 * The new HTML5 elements i 
@@ -924,7 +964,9 @@ block-level elements.
 * To make HTML5 elements work in Internet Explorer 8
 (and older versions of IE), extra JavaScript is needed,
 which is available free from Google
+  
 ----
+  
 #### HTML Chapter 18: “Process & Design” (pp.452-475)
 * It's important to understand 
 * ho your target audience
@@ -939,7 +981,9 @@ visitors understand what you are trying to tell them.
 using size, color, and style.
 * You can use grouping and similarity to help simplify
 the information you present.
+  
 ---
+  
 # JavaScript
 * Introduction
 
@@ -999,6 +1043,7 @@ example, it could be run when:
 * Information is added to a form
 * An interval of time has passed
 * A web page has finished loading
+  
 ---
 
 ### JS Chapter 1: The ABC of Programming (pp.11-52)
@@ -1038,6 +1083,7 @@ l astModi f i ed property of the document object
 tells you the date this page was last updated.
 
 -----
+  
 **Summary:**
 
 * is best to keep JavaScript code in its own JavaScript
@@ -1067,8 +1113,12 @@ A --> C(Programmer)
 B --> D{Web Developer}
 C --> D
 ```
+  
 ----
+  
 - [x] useful
 - [ ] not useful
+  
 ---
+  
 @AnasAhmad
