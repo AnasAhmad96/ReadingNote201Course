@@ -23,11 +23,15 @@ Number  | Link
 
 |Number|Subject|
 |-----|------|
-|1|[About me](https://anasahmad96.github.io/Introduction/)
-|2|[Class-01](https://anasahmad96.github.io/ReadingNote201Course/class-01)
-|3|[Class-02](https://anasahmad96.github.io/ReadingNote201Course/class-02)
-|4|[lab02](https://anasahmad96.github.io/About-Me-guessing-game/html/)
-|5|[README](https://anasahmad96.github.io/ReadingNote201Course/)
+|1| [Prep Setup Your Account](https://canvas.instructure.com/courses/2960648/assignments/22737748/submissions/30361140) 
+|2| [read01-class01](https://github.com/AnasAhmad96/ReadingNote201Course/blob/main/class-01.md)
+|3| [lab01a](https://anasahmad96.github.io/ReadingNote201Course/) 
+|4| [lab01b](https://gist.github.com/AnasAhmad96/cccd63b44b8afb4062e59baee172b4cd) 
+|5| [lab01b](https://gist.github.com/AnasAhmad96/cccd63b44b8afb4062e59baee172b4cd) 
+|6| [read02-class02](https://github.com/AnasAhmad96/ReadingNote201Course/blob/main/class-02.md)
+|7| [lab02](https://anasahmad96.github.io/About-Me-guessing-game/html/) 
+|8| [Learning Journal](https://canvas.instructure.com/courses/2960648/assignments/22737734/submissions/30361140)
+|9|[README](https://anasahmad96.github.io/ReadingNote201Course/)
 
 ------------
 @AnasAhmad
