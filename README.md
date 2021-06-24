@@ -31,8 +31,12 @@ Number  | Link
 |6| [lab02](https://anasahmad96.github.io/About-Me-guessing-game/html/) 
 |7| [Learning Journal](https://canvas.instructure.com/courses/2960648/assignments/22737734/submissions/30361140)
 |8|[read03](https://anasahmad96.github.io/ReadingNote201Course/read03)
-|9|[read04](https://anasahmad96.github.io/ReadingNote201Course/read04)
-|10|[README](https://anasahmad96.github.io/ReadingNote201Course/)
+|9|[lab03](https://github.com/AnasAhmad96/About-Me-guessing-game)
+|10|[read04](https://anasahmad96.github.io/ReadingNote201Course/read04)
+|11|[Learning Journal: 03](https://canvas.instructure.com/courses/2960648/assignments/22737735/submissions/30361140)
+|12|[Lab04](https://canvas.instructure.com/courses/2960648/assignments/22737716/submissions/30361140)
+|13|[Quiz#1](https://canvas.instructure.com/courses/2960648/quizzes/8009552)
+|14|[README](https://anasahmad96.github.io/ReadingNote201Course/)
 
 ------------
 @AnasAhmad
