@@ -36,7 +36,8 @@ Number  | Link
 |11|[Learning Journal: 03](https://canvas.instructure.com/courses/2960648/assignments/22737735/submissions/30361140)
 |12|[Lab04](https://canvas.instructure.com/courses/2960648/assignments/22737716/submissions/30361140)
 |13|[Quiz#1](https://canvas.instructure.com/courses/2960648/quizzes/8009552)
-|14|[README](https://anasahmad96.github.io/ReadingNote201Course/)
+|14|[read5](https://anasahmad96.github.io/ReadingNote201Course/read5)
+|15|[README](https://anasahmad96.github.io/ReadingNote201Course/)
 
 ------------
 @AnasAhmad
