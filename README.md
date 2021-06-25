@@ -38,10 +38,11 @@ Number  | Link
 |13|[Quiz#1](https://canvas.instructure.com/courses/2960648/quizzes/8009552)
 |14|[Feedback week1](https://canvas.instructure.com/courses/2960648/quizzes/8009544)
 |15|[lab05a](https://github.com/LTUC/amman-201d32-lab5/compare/main...AnasAhmad96:main)
-|16|[read5](https://anasahmad96.github.io/ReadingNote201Course/read5)
-|17|[Quiz#2](https://canvas.instructure.com/courses/2960648/quizzes/8009542)
-|18|[read6](https://anasahmad96.github.io/ReadingNote201Course/read6)
-|19|[README](https://anasahmad96.github.io/ReadingNote201Course/)
+|16|[Learning Journal05](https://canvas.instructure.com/courses/2960648/assignments/22737737)
+|17|[read5](https://anasahmad96.github.io/ReadingNote201Course/read5)
+|18|[Quiz#2](https://canvas.instructure.com/courses/2960648/quizzes/8009542)
+|19|[read6](https://anasahmad96.github.io/ReadingNote201Course/read6)
+|20|[README](https://anasahmad96.github.io/ReadingNote201Course/)
 
 ------------
 @AnasAhmad
