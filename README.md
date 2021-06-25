@@ -37,10 +37,11 @@ Number  | Link
 |12|[Lab04](https://canvas.instructure.com/courses/2960648/assignments/22737716/submissions/30361140)
 |13|[Quiz#1](https://canvas.instructure.com/courses/2960648/quizzes/8009552)
 |14|[Feedback week1](https://canvas.instructure.com/courses/2960648/quizzes/8009544)
-|15|[read5](https://anasahmad96.github.io/ReadingNote201Course/read5)
-|16|[Quiz#2](https://canvas.instructure.com/courses/2960648/quizzes/8009542)
-|17|[read6](https://anasahmad96.github.io/ReadingNote201Course/read6)
-|18|[README](https://anasahmad96.github.io/ReadingNote201Course/)
+|15|[lab05a](https://github.com/LTUC/amman-201d32-lab5/compare/main...AnasAhmad96:main)
+|16|[read5](https://anasahmad96.github.io/ReadingNote201Course/read5)
+|17|[Quiz#2](https://canvas.instructure.com/courses/2960648/quizzes/8009542)
+|18|[read6](https://anasahmad96.github.io/ReadingNote201Course/read6)
+|19|[README](https://anasahmad96.github.io/ReadingNote201Course/)
 
 ------------
 @AnasAhmad
