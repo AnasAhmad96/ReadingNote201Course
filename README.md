@@ -29,7 +29,7 @@ Number  | Link
 |4| [lab01b](https://gist.github.com/AnasAhmad96/cccd63b44b8afb4062e59baee172b4cd) 
 |5| [read02-class02](https://github.com/AnasAhmad96/ReadingNote201Course/blob/main/class-02.md)
 |6| [lab02](https://anasahmad96.github.io/About-Me-guessing-game/html/) 
-|7| [Learning Journal](https://canvas.instructure.com/courses/2960648/assignments/22737734/submissions/30361140)
+|7| [Learning Journal02](https://canvas.instructure.com/courses/2960648/assignments/22737734/submissions/30361140)
 |8|[read03](https://anasahmad96.github.io/ReadingNote201Course/read03)
 |9|[lab03](https://github.com/AnasAhmad96/About-Me-guessing-game)
 |10|[read04](https://anasahmad96.github.io/ReadingNote201Course/read04)
