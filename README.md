@@ -42,8 +42,9 @@ Number  | Link
 |17|[read5](https://anasahmad96.github.io/ReadingNote201Course/read5)
 |18|[Quiz#2](https://canvas.instructure.com/courses/2960648/quizzes/8009542)
 |19|[lab05b](https://anasahmad96.github.io/About-Me-guessing-game/html/)
-|20|[read6](https://anasahmad96.github.io/ReadingNote201Course/read6)
-|21|[README](https://anasahmad96.github.io/ReadingNote201Course/)
+|20|[lab05c](https://1drv.ms/u/s!Aq3xk3yXrowsiGdkDxNa1wsHjDYQ?e=vMImdC)
+|21|[read6](https://anasahmad96.github.io/ReadingNote201Course/read6)
+|22|[README](https://anasahmad96.github.io/ReadingNote201Course/)
 
 ------------
 @AnasAhmad
