@@ -1,4 +1,4 @@
-# 201 Course 
+# 201 Course
 
 ![web developer](http://coderoo.com.au/blog/wp-content/uploads/2018/02/web.jpg)
 
@@ -10,7 +10,7 @@
 
 ----
 
-# Layout in Css:
+# Layout in Css
 
 ---------
 
@@ -43,7 +43,7 @@ The element is removed from the normal document flow, and no space is created fo
 
 ------------
 
-###  fixed
+### fixed
 
 The element is removed from the normal document flow, and no space is created for the element in the page layout. It is positioned relative to the initial containing block established by the viewport, except when one of its ancestors has a transform, perspective, or filter property set to something other than none (see the CSS Transforms Spec), in which case that ancestor behaves as the containing block. (Note that there are browser inconsistencies with perspective and filter contributing to containing block formation.) Its final position is determined by the values of top, right, bottom, and left.
 This value always creates a new stacking context. In printed documents, the element is placed in the same position on every page.
@@ -51,7 +51,6 @@ This value always creates a new stacking context. In printed documents, the elem
 # sticky
 
 -----------
-
 
 The element is positioned according to the normal flow of the document, and then offset relative to its nearest scrolling ancestor and containing block (nearest block-level ancestor), including table-related elements, based on the values of top, right, bottom, and left. The offset does not affect the position of any other elements.
 This value always creates a new stacking context. Note that a sticky element "sticks" to its nearest ancestor that has a "scrolling mechanism" (created when overflow is hidden, scroll, auto, or overlay), even if that ancestor isn't the nearest actually scrolling ancestor. This effectively inhibits any "sticky" behavior (see the GitHub issue on W3C CSSWG).
