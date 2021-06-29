@@ -29,7 +29,10 @@
 |22|[lab06](https://canvas.instructure.com/courses/2960648/assignments/22737720)
 |23|[Learning Journal06](https://canvas.instructure.com/courses/2960648/assignments/22737738)
 |24|[Read7](https://anasahmad96.github.io/ReadingNote201Course/read7)
-|23|[README](https://anasahmad96.github.io/ReadingNote201Course/)
+|25|[lab7](https://github.com/AnasAhmad96/cookie-stand)
+|26|[Learning Journal07](https://canvas.instructure.com/courses/2960648/assignments/22737739)
+|27|[read8](https://anasahmad96.github.io/ReadingNote201Course/read8)
+|28|[README](https://anasahmad96.github.io/ReadingNote201Course/)
 
 ------------
 @AnasAhmad
