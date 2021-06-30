@@ -27,12 +27,14 @@
 |20|[lab05c](https://1drv.ms/u/s!Aq3xk3yXrowsiGdkDxNa1wsHjDYQ?e=vMImdC)
 |21|[read6](https://anasahmad96.github.io/ReadingNote201Course/read6)
 |22|[lab06](https://github.com/AnasAhmad96/cookie-stand)
-|23|[Learning Journal06](https://canvas.instructure.com/courses/2960648/assignments/22737738)
-|24|[Read7](https://anasahmad96.github.io/ReadingNote201Course/read7)
-|25|[lab7](https://github.com/AnasAhmad96/cookie-stand)
+|23|[Read7](https://anasahmad96.github.io/ReadingNote201Course/read7)
+|24|[lab7](https://github.com/AnasAhmad96/cookie-stand)
+|25|[Learning Journal06](https://canvas.instructure.com/courses/2960648/assignments/22737738)
 |26|[Learning Journal07](https://canvas.instructure.com/courses/2960648/assignments/22737739)
 |27|[read8](https://anasahmad96.github.io/ReadingNote201Course/read8)
-|28|[README](https://anasahmad96.github.io/ReadingNote201Course/)
+|28|[Learning Journal08](https://canvas.instructure.com/courses/2960648/assignments/22737740)
+|29|[read9](https://anasahmad96.github.io/ReadingNote201Course/read9)
+|30|[README](https://anasahmad96.github.io/ReadingNote201Course/)
 
 ------------
 @AnasAhmad
