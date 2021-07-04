@@ -50,7 +50,7 @@ the dimensions of the
 images, instead of putting the
 dimensions in the HTML.
 
-```html 
+```html
 <img src="images/magnolia-large.jpg"
 class="large" alt="Magnolia" />
 <img src="images/magnolia-medium.jpg"
@@ -104,7 +104,7 @@ margin to the image to ensure
 that the text does not touch their
 edges.
 
-```html 
+```html
 <p><img src="images/magnolia-medium.jpg"
 alt="Magnolia" class="align-left medium" />
 <b><i>Magnolia</i></b> is a large genus that
@@ -219,7 +219,7 @@ body {
 background-image: url("images/pattern.gif");} 
 ```
 
-* Repeating Images 
+* Repeating Images
 
 > The background-repeat
 property can have four values:
@@ -267,7 +267,7 @@ background-repeat: no-repeat;
 background-position: center top;}
 ```
 
-* shorthand 
+* shorthand
 
 ```css
 body {
@@ -275,7 +275,7 @@ background: #ffffff url("images/tulip.gif")
 no-repeat top right;}
 ```
 
-* Image Rollovers 
+* Image Rollovers
 
 ```css
 a.button {
@@ -323,7 +323,7 @@ height: 150px;
 width: 300px;}
 ```
 
-* Exam 
+* Exam
 
 ```css
 <!DOCTYPE html>
@@ -368,9 +368,9 @@ background-repeat: no-repeat;}
 </style>
 ```
 
-* Summary 
+* Summary
 
-* You can specify the dimensions 
+* You can specify the dimensions
 of images using CSS.
 This is very helpful when you use the same sized
 images on several pages of your site.
