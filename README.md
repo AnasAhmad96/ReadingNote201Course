@@ -44,10 +44,10 @@
 |37|[Learning Journal10](https://canvas.instructure.com/courses/2960648/assignments/22737742/submissions/30361140)
 |38|[Feedback: Week 2](https://canvas.instructure.com/courses/2960648/assignments/22737671/submissions/30361140)
 |39|[Feedback: Week 2](https://canvas.instructure.com/courses/2960648/assignments/22737671/submissions/30361140)
-|40|[Quiz#4](https://canvas.instructure.com/courses/2960648/assignments/22737663/submissions/30361140)
+|40|[Quiz#4](https://canvas.instructure.com/courses/2960648/quizzes/8009546)
 |41|[lab10b](https://canvas.instructure.com/courses/2960648/assignments/22737726/submissions/30361140)
 |42|[lab10c](https://canvas.instructure.com/courses/2960648/assignments/22737727/submissions/30361140)
-|43|[read11](https://canvas.instructure.com/courses/2960648/assignments/22737690/submissions/30361140)
+|43|[read11](https://anasahmad96.github.io/ReadingNote201Course/read11)
 |44|[README](https://anasahmad96.github.io/ReadingNote201Course/)
 
 ------------
