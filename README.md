@@ -50,7 +50,8 @@
 |43|[lab11](https://github.com/AnasAhmad96/Bus-mall/pull/2)
 |44|[Learning Journal11](https://canvas.instructure.com/courses/2960648/assignments/22737743?confetti=true&submitted=1)
 |45|[read12](https://anasahmad96.github.io/ReadingNote201Course/read12)
-|46|[README](https://anasahmad96.github.io/ReadingNote201Course/)
+|46|[lab12](https://github.com/AnasAhmad96/Bus-mall/tree/lab12-chartjs)
+|47|[README](https://anasahmad96.github.io/ReadingNote201Course/)
 
 ------------
 @AnasAhmad
