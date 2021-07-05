@@ -51,7 +51,10 @@
 |44|[Learning Journal11](https://canvas.instructure.com/courses/2960648/assignments/22737743?confetti=true&submitted=1)
 |45|[read12](https://anasahmad96.github.io/ReadingNote201Course/read12)
 |46|[lab12](https://github.com/AnasAhmad96/Bus-mall/tree/lab12-chartjs)
-|47|[README](https://anasahmad96.github.io/ReadingNote201Course/)
+|47|[Quiz#5](https://canvas.instructure.com/courses/2960648/quizzes/8009548)
+|48|[Learning Journal12](https://canvas.instructure.com/courses/2960648/assignments/22737744)
+|49|[read13]()
+|50|[README](https://anasahmad96.github.io/ReadingNote201Course/)
 
 ------------
 @AnasAhmad
