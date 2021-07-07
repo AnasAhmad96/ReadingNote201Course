@@ -58,6 +58,10 @@
 |51|[Learning Journal13](https://canvas.instructure.com/courses/2960648/assignments/22737745)
 |52|[read14a](https://anasahmad96.github.io/ReadingNote201Course/read14a)
 |53|[read14b](https://anasahmad96.github.io/ReadingNote201Course/read14b)
+|53|[Learning Journal14](https://canvas.instructure.com/courses/2960648/assignments/22737746)
+|54|[Feedback: Week 3](#)
+|53|[lab15a](https://canvas.instructure.com/courses/2960648/assignments/22737733)
+|54|[lab15b](#)
 |54|[README](https://anasahmad96.github.io/ReadingNote201Course/)
 ------------
 @AnasAhmad
