@@ -54,7 +54,10 @@
 |47|[Quiz#5](https://canvas.instructure.com/courses/2960648/quizzes/8009548)
 |48|[Learning Journal12](https://canvas.instructure.com/courses/2960648/assignments/22737744)
 |49|[read13](https://anasahmad96.github.io/ReadingNote201Course/read13)
-|50|[README](https://anasahmad96.github.io/ReadingNote201Course/)
-
+|50|[lab13](https://canvas.instructure.com/courses/2960648/assignments/22737730)
+|51|[Learning Journal13](https://canvas.instructure.com/courses/2960648/assignments/22737745)
+|52|[read14a](https://anasahmad96.github.io/ReadingNote201Course/read14a)
+|53|[read14b](https://anasahmad96.github.io/ReadingNote201Course/read14b)
+|54|[README](https://anasahmad96.github.io/ReadingNote201Course/)
 ------------
 @AnasAhmad
