@@ -1,4 +1,4 @@
-# 201 Course 
+# 201 Course
 
 ![web developer](http://coderoo.com.au/blog/wp-content/uploads/2018/02/web.jpg)
 
@@ -61,7 +61,7 @@ alt attribute should still be used
 but the quotes should be left
 empty.
 
-```html 
+```html
 <img src="images/quokka.jpg" alt="A family of
 quokka" title="The quokka is an Australian
 marsupial that is similar in size to the
@@ -126,7 +126,7 @@ Arctic to the Antarctic.< img
 src="images/bird.gif" alt="Bird" width="100"
 height="100" />Many species undertake long
 distance annual migrations, and many more perform
-shorter irregular journeys.< /p> 
+shorter irregular journeys.< /p>
 
 ```html
 <img src="images/bird.gif" alt="Bird" width="100"
@@ -252,7 +252,7 @@ background-color: white;}
 ```
 
 * Opacity
-opacity, rgba 
+opacity, rgba
 
 > CSS3 introduces the opacity
 property which allows you to
@@ -346,7 +346,7 @@ background-color: #ffffff;
 background-color: hsla(0,100%,100%,0.5);}
 ```
 
-* summary 
+* summary
 
 * Color not only brings your s XX ite to life, but also helps
 convey the mood and evokes reactions.
@@ -401,7 +401,7 @@ version of the HTML shown on
 this page for all of the examples
 in this chapter.
 
-```html 
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -531,7 +531,7 @@ show how to add or remove an
 underline when a user hovers
 over a link.
 
-``` css 
+``` css
 .credits {
 text-decoration: underline;}
 a {
@@ -645,7 +645,7 @@ text-align: right;}
 ```
 
 * vertical-align
-#six-
+# six-
 
 > The vertical-align property is
 a common source of confusion.
@@ -678,5 +678,3 @@ vertical-align: text-bottom;}
 -----
 
 @AnasAhmad
-
-
