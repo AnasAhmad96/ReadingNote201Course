@@ -59,9 +59,12 @@
 |52|[read14a](https://anasahmad96.github.io/ReadingNote201Course/read14a)
 |53|[read14b](https://anasahmad96.github.io/ReadingNote201Course/read14b)
 |53|[Learning Journal14](https://canvas.instructure.com/courses/2960648/assignments/22737746)
-|54|[Feedback: Week 3](#)
+|54|[Feedback: Week 3](https://canvas.instructure.com/courses/2960648/quizzes/8009547)
 |53|[lab15a](https://canvas.instructure.com/courses/2960648/assignments/22737732/submissions/30361140)
 |54|[lab15b](https://canvas.instructure.com/courses/2960648/assignments/22737733/submissions/30361140)
-|54|[README](https://anasahmad96.github.io/ReadingNote201Course/)
+|55|[Quiz#6](https://canvas.instructure.com/courses/2960648/quizzes/8009549)
+|56|[Learning Journal15](https://canvas.instructure.com/courses/2960648/assignments/22737747/submissions/30361140)
+|57|[README](https://anasahmad96.github.io/ReadingNote201Course/)
+
 ------------
 @AnasAhmad
